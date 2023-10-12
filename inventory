@@ -1,0 +1,14 @@
+[web_servers]
+192.168.56.111 ansible_python_interpreter=/usr/bin/python2
+192.168.56.113 ansible_python_interpreter=/usr/bin/python2
+
+[db_servers]
+192.168.56.111 ansible_python_interpreter=/usr/bin/python2
+
+[file_servers]
+192.168.56.111 ansible_python_interpreter=/usr/bin/python2
+192.168.56.113 ansible_python_interpreter=/usr/bin/python2
+
+[workstations]
+192.168.56.111 ansible_python_interpreter=/usr/bin/python2
+
